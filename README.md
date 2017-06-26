@@ -1,4 +1,4 @@
-
+ 
 
 # to_do_list
 
@@ -14,7 +14,7 @@ Techonologies Used :
      -> CSS
      -> Bootstrap
      -> Js (ES6)
-     ->font-awesome (ICONS)
+     -> font-awesome (ICONS)
 
 App Screenshot:
 
