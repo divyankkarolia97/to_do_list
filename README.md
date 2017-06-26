@@ -9,7 +9,7 @@ Note : Download the repository and fire up the "index.html" file.
 
 The to_do_list is mobile responsive and can function like a breeze on all screen size.
 
-Techonologies Used :
+# Techonologies Used :
 
      -> HTML 5
      -> CSS
@@ -17,7 +17,7 @@ Techonologies Used :
      -> Js (ES6)
      -> font-awesome (ICONS)
 
-App Screenshot:
+# Screenshots:
 
 DESKTOP:
 
