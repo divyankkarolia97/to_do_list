@@ -5,7 +5,7 @@
 
 Note : Download the repository and fire up the "index.html" file.
 
-(App is made with ES6 standards and hence is supported on all modern browsers Tested_on:Chrome,Firefox)
+(App is made with ES6 standards and hence is supported on all modern browsers. Tested_on:Chrome,Firefox)
 
 The to_do_list is mobile responsive and can function like a breeze on all screen size.
 
