@@ -1,4 +1,5 @@
- 
+
+
 
 # to_do_list
 
@@ -19,8 +20,12 @@ Techonologies Used :
 App Screenshot:
 
 DESKTOP:
-![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/Screenshot(Desktop).jpg "Screenshot(Desktop)")
+
+
+![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/SCREENSHOTS/Screenshot(Desktop).jpg "Screenshot(Desktop)")
 
 MOBILE:
-![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/Screenshot(Mobile).PNG "Screenshot(Desktop)")
+
+
+![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/SCREENSHOTS/Screenshot(Mobile).PNG "Screenshot(Desktop)")
 
