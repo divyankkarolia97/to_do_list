@@ -18,5 +18,9 @@ Techonologies Used :
 
 App Screenshot:
 
-![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/Screenshot.PNG "Screenshot")
+DESKTOP:
+![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/Screenshot(Desktop).jpg "Screenshot(Desktop)")
+
+MOBILE:
+![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/Screenshot(Mobile).PNG "Screenshot(Desktop)")
 
