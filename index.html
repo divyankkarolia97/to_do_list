@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>TO DO LIST</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="CSS(Custom)/css/font-awesome.min.css">
+        <style>
+
+            input[type="checkbox"]{
+                width: 25px;
+                height: 25px;
+            }
+
+            input[type="text"]{
+                height: 50px;
+                padding: 15px;
+                border: dotted;
+                border-color: burlywood;
+                margin-top: 20px;
+                margin-bottom: 20px;
+            }
+            #list{
+                margin: 20px;
+            }
+
+            #list > li:first-child > .fa-arrow-up{
+               visibility: hidden;
+                pointer-events: none;
+            }
+            #list > li:last-child > .fa-arrow-down{
+               visibility: hidden;
+                pointer-events: none;
+            }
+
+
+
+
+        </style>
+
+        <script src="JS/app.js" ></script>
+    </head>
+    <body style="background-color: beige">
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+        <input type="text" id="input" style="background-color: bisque" class="form-control" placeholder="Enter Your ToDo"></div>
+        </div>
+        <div class="row">
+
+          <div class="col-6">
+        <input type="button" class="btn btn-success btn-block" id="add" value="ADD ITEM">
+          </div>
+            <div class="col-6">
+        <input type="button" id="del" class="btn btn-danger btn-block" value="DELETE ITEMs">
+        </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+
+            <ul id="list" class="list-group list-responsive">
+
+        </ul>
+    </div>
+        </div>
+    </div>
+    </body>    
+
+
+
+</html>
