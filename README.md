@@ -27,5 +27,5 @@ DESKTOP:
 MOBILE:
 
 
-![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/SCREENSHOTS/Screenshot(Mobile).PNG "Screenshot(Desktop)")
+![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/SCREENSHOTS/Screenshot(%20Mobile%20).PNG "Screenshot(Desktop)")
 
