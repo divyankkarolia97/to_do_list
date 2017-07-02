@@ -11,11 +11,11 @@ The to_do_list is mobile responsive and can function like a breeze on all screen
 
 # Techonologies Used :
 
-     -> HTML 5
-     -> CSS
-     -> Bootstrap
-     -> Js (ES6)
-     -> font-awesome (ICONS)
+     - HTML 5
+     - CSS
+     - Bootstrap
+     - Js (ES6)
+     - font-awesome (ICONS)
 
 # Screenshots:
 
