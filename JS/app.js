@@ -60,7 +60,7 @@ window.onload = function(){
             var ele = document.createElement("span");
             ele.className="col-8";
             ele.style.setProperty("font-size","20px");
-            ele.style.setProperty("word-break","break-all");
+            ele.style.setProperty("word-break","keep-all");
             ele.innerText = modelList[i].task;
 
             var Xbutton = document.createElement("i");
