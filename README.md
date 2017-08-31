@@ -22,10 +22,14 @@ The to_do_list is mobile responsive and can function like a breeze on all screen
 DESKTOP:
 
 
-![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/SCREENSHOTS/Screenshot(%20Desktop%20).jpg "Screenshot(Desktop)")
+![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/SCREENSHOTS/Screenshot(Desktop).jpg "Screenshot(Desktop)")
 
 MOBILE:
 
 
-![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/SCREENSHOTS/Screenshot(%20Mobile%20).PNG "Screenshot(Desktop)")
+![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/SCREENSHOTS/Screenshot(Mobile).PNG "Screenshot(Desktop)")
 
+ADDONS:
+
+
+![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/SCREENSHOTS/Screenshot(Addons).jpg "Screenshot(Addons)")
